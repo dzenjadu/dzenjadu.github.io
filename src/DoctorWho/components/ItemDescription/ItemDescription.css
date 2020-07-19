@@ -1,0 +1,17 @@
+.description {
+
+}
+
+.description__block {
+    margin-bottom: 40px;
+}
+
+.description__title {
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.description__text {
+
+}
