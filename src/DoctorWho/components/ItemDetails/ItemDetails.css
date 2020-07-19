@@ -1,0 +1,28 @@
+.details {
+    margin-bottom: 50px;
+}
+
+.details__item {
+    display: flex;
+}
+
+.details__item:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+.details__list {
+
+}
+
+.details__subitem {
+
+}
+
+.details__subitem:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.details__item-title {
+    min-width: 90px;
+    font-weight: bold;
+}
