@@ -1,0 +1,128 @@
+{
+  "strap": [
+    {
+      "title": "Alligator Black",
+      "img": "alligator_alack",
+      "active": true
+    },
+    {
+      "title": "Alligator Blue",
+      "img": "alligator_blue",
+      "active": false
+    },
+    {
+      "title": "Alligator Red",
+      "img": "alligator_red",
+      "active": false
+    },
+    {
+      "title": "Lether Black",
+      "img": "lether_black",
+      "active": false
+    },
+    {
+      "title": "Lether Brown",
+      "img": "lether_brown",
+      "active": false
+    },
+    {
+      "title": "Lether Red",
+      "img": "lether_red",
+      "active": false
+    },
+    {
+      "title": "Lether Yellow",
+      "img": "lether_yellow",
+      "active": false
+    }
+  ],
+  "dial": [
+    {
+      "title": "Modern White",
+      "img": "modern_white",
+      "active": true
+    },
+    {
+      "title": "Modern White2",
+      "img": "modern_white",
+      "active": false
+    },
+    {
+      "title": "Modern White3",
+      "img": "modern_white",
+      "active": false
+    }
+  ],
+  "dial_print": [
+    {
+      "title": "Modern White",
+      "img": "modern_white",
+      "active": true
+    },
+    {
+      "title": "Modern White2",
+      "img": "modern_white",
+      "active": false
+    }
+  ],
+  "case" : [
+    {
+      "title": "Standard Rose Gold",
+      "img": "standard_rose_gold",
+      "active": true
+    },
+    {
+      "title": "Standard Rose Gold2",
+      "img": "standard_rose_gold",
+      "active": false
+    }
+  ],
+  "bezel": [
+    {
+      "title": "Tachymeter Silver",
+      "img": "tachymeter_silver",
+      "active": true
+    },
+    {
+      "title": "Tachymeter Silver2",
+      "img": "tachymeter_silver",
+      "active": false
+    }
+  ],
+  "hands": [
+    {
+      "title": "Slim Rose Gold",
+      "img": "slim_rose_gold",
+      "active": true
+    },
+    {
+      "title": "Slim Rose Gold2",
+      "img": "slim_rose_gold",
+      "active": false
+    }
+  ],
+  "small_hands": [
+    {
+      "title": "Slim Rose Gold",
+      "img": "slim_rose_gold",
+      "active": true
+    },
+    {
+      "title": "Slim Rose Gold2",
+      "img": "slim_rose_gold",
+      "active": false
+    }
+  ],
+  "second_hands": [
+    {
+      "title": "Standard Rose Gold",
+      "img": "standard_rose_gold",
+      "active": true
+    },
+    {
+      "title": "Standard Rose Gold2",
+      "img": "standard_rose_gold",
+      "active": false
+    }
+  ]
+}
