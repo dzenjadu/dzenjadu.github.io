@@ -55,9 +55,14 @@
   ],
   "dial_print": [
     {
+      "title": "None",
+      "img": "none",
+      "active": true
+    },
+    {
       "title": "Modern White",
       "img": "modern_white",
-      "active": true
+      "active": false
     },
     {
       "title": "Modern White2",
