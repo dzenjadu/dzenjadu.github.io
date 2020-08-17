@@ -79,9 +79,14 @@
   ],
   "bezel": [
     {
+      "title": "None",
+      "img": "none",
+      "active": true
+    },
+    {
       "title": "Tachymeter Silver",
       "img": "tachymeter_silver",
-      "active": true
+      "active": false
     },
     {
       "title": "Tachymeter Silver2",
