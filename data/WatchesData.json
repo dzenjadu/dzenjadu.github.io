@@ -203,13 +203,88 @@
       "active": true
     },
     {
-      "title": "Modern White2",
-      "img": "modern_white",
+      "title": "Modern Black",
+      "img": "modern_black",
       "active": false
     },
     {
-      "title": "Modern White3",
-      "img": "modern_white",
+      "title": "Modern Blue",
+      "img": "modern_blue",
+      "active": false
+    },
+    {
+      "title": "Modern Olive",
+      "img": "modern_olive",
+      "active": false
+    },
+    {
+      "title": "Modern Pink",
+      "img": "modern_pink",
+      "active": false
+    },
+    {
+      "title": "Modern Yellow",
+      "img": "modern_yellow",
+      "active": false
+    },
+    {
+      "title": "Eclipse Blue",
+      "img": "eclipse_blue",
+      "active": false
+    },
+    {
+      "title": "Eclipse Green",
+      "img": "eclipse_green",
+      "active": false
+    },
+    {
+      "title": "Eclipse Red",
+      "img": "eclipse_red",
+      "active": false
+    },
+    {
+      "title": "Eclipse Silver",
+      "img": "eclipse_silver",
+      "active": false
+    },
+    {
+      "title": "Sport Amazon",
+      "img": "sport_amazon",
+      "active": false
+    },
+    {
+      "title": "Sport Caribian",
+      "img": "sport_caribian",
+      "active": false
+    },
+    {
+      "title": "Sport Newman",
+      "img": "sport_newman",
+      "active": false
+    },
+    {
+      "title": "Type Black",
+      "img": "type_black",
+      "active": false
+    },
+    {
+      "title": "Type Black / Blue",
+      "img": "type_black_blue",
+      "active": false
+    },
+    {
+      "title": "Type While",
+      "img": "type_white",
+      "active": false
+    },
+    {
+      "title": "Vintage Killy",
+      "img": "vintage_killy",
+      "active": false
+    },
+    {
+      "title": "Vintage Navi",
+      "img": "vintage_navi",
       "active": false
     }
   ],
