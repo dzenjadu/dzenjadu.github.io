@@ -16,6 +16,16 @@
       "active": false
     },
     {
+      "title": "Alligator Purple",
+      "img": "alligator_purple",
+      "active": false
+    },
+    {
+      "title": "Alligator Brown",
+      "img": "alligator_brown",
+      "active": false
+    },
+    {
       "title": "Lether Black",
       "img": "lether_black",
       "active": false
@@ -33,6 +43,156 @@
     {
       "title": "Lether Yellow",
       "img": "lether_yellow",
+      "active": false
+    },
+    {
+      "title": "Cordura Black",
+      "img": "cordura_black",
+      "active": false
+    },
+    {
+      "title": "Cordura Blue",
+      "img": "cordura_blue",
+      "active": false
+    },
+    {
+      "title": "Cordura Green",
+      "img": "cordura_green",
+      "active": false
+    },
+    {
+      "title": "Cordura Orange",
+      "img": "cordura_orange",
+      "active": false
+    },
+    {
+      "title": "Cordura Sand",
+      "img": "cordura_sand",
+      "active": false
+    },
+    {
+      "title": "Cordura White",
+      "img": "cordura_white",
+      "active": false
+    },
+    {
+      "title": "Vintage Grey",
+      "img": "vintage_grey",
+      "active": false
+    },
+    {
+      "title": "Vintage White",
+      "img": "vintage_white",
+      "active": false
+    },
+    {
+      "title": "Vintage Yellow",
+      "img": "vintage_yellow",
+      "active": false
+    },
+    {
+      "title": "Perlon Black",
+      "img": "perlon_black",
+      "active": false
+    },
+    {
+      "title": "Perlon Black / Grey / Blue",
+      "img": "perlon_black_grey_blue",
+      "active": false
+    },
+    {
+      "title": "Perlon Black / White / Green",
+      "img": "perlon_black_white_green",
+      "active": false
+    },
+    {
+      "title": "Perlon Blue",
+      "img": "perlon_blue",
+      "active": false
+    },
+    {
+      "title": "Perlon Brown",
+      "img": "perlon_brown",
+      "active": false
+    },
+    {
+      "title": "Perlon Green",
+      "img": "perlon_green",
+      "active": false
+    },
+    {
+      "title": "Perlon Grey",
+      "img": "perlon_grey",
+      "active": false
+    },
+    {
+      "title": "Perlon Lightbrown",
+      "img": "perlon_lightbrown",
+      "active": false
+    },
+    {
+      "title": "Perlon Navy",
+      "img": "perlon_navy",
+      "active": false
+    },
+    {
+      "title": "Perlon Olive",
+      "img": "perlon_olive",
+      "active": false
+    },
+    {
+      "title": "Perlon Orange",
+      "img": "perlon_orange",
+      "active": false
+    },
+    {
+      "title": "Perlon Pink",
+      "img": "perlon_pink",
+      "active": false
+    },
+    {
+      "title": "Perlon Pink / Navy",
+      "img": "perlon_pink_navy",
+      "active": false
+    },
+    {
+      "title": "Perlon Pink / Navy / White",
+      "img": "perlon_pink_navy_white",
+      "active": false
+    },
+    {
+      "title": "Perlon Red",
+      "img": "perlon_red",
+      "active": false
+    },
+    {
+      "title": "Perlon Yellow",
+      "img": "perlon_yellow",
+      "active": false
+    },
+    {
+      "title": "Rally Black",
+      "img": "rally_black",
+      "active": false
+    },
+    {
+      "title": "Rally Blue",
+      "img": "rally_blue",
+      "active": false
+    },
+    {
+      "title": "Rally Brown",
+      "img": "rally_brown",
+      "active": false
+    },
+    {
+      "title": "Rally Choco Brown",
+      "img": "rally_choco_brown",
+      "active": false
+    },
+    {
+      "title": "Rally Green",
+      "img": "rally_green",
       "active": false
     }
   ],
