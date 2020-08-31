@@ -228,6 +228,12 @@
       "pos_small_hands": "vertical"
     },
     {
+      "title": "Modern Pink Cat",
+      "img": "modern_pink_cat",
+      "active": false,
+      "pos_small_hands": "vertical"
+    },
+    {
       "title": "Modern Yellow",
       "img": "modern_yellow",
       "active": false,
@@ -314,6 +320,12 @@
     {
       "title": "California Green",
       "img": "california_green",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "California Green Poker",
+      "img": "california_green_poker",
       "active": false,
       "pos_small_hands": null
     }
