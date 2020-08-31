@@ -200,92 +200,110 @@
     {
       "title": "Modern White",
       "img": "modern_white",
-      "active": true
+      "active": true,
+      "is_vertical": true
     },
     {
       "title": "Modern Black",
       "img": "modern_black",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Modern Blue",
       "img": "modern_blue",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Modern Olive",
       "img": "modern_olive",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Modern Pink",
       "img": "modern_pink",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Modern Yellow",
       "img": "modern_yellow",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Eclipse Blue",
       "img": "eclipse_blue",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Eclipse Green",
       "img": "eclipse_green",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Eclipse Red",
       "img": "eclipse_red",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Eclipse Silver",
       "img": "eclipse_silver",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Sport Amazon",
       "img": "sport_amazon",
-      "active": false
+      "active": false,
+      "is_vertical": false
     },
     {
       "title": "Sport Caribian",
       "img": "sport_caribian",
-      "active": false
+      "active": false,
+      "is_vertical": false
     },
     {
       "title": "Sport Newman",
       "img": "sport_newman",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Type Black",
       "img": "type_black",
-      "active": false
+      "active": false,
+      "is_vertical": false
     },
     {
       "title": "Type Black / Blue",
       "img": "type_black_blue",
-      "active": false
+      "active": false,
+      "is_vertical": false
     },
     {
       "title": "Type While",
       "img": "type_white",
-      "active": false
+      "active": false,
+      "is_vertical": false
     },
     {
       "title": "Vintage Killy",
       "img": "vintage_killy",
-      "active": false
+      "active": false,
+      "is_vertical": true
     },
     {
       "title": "Vintage Navi",
       "img": "vintage_navi",
-      "active": false
+      "active": false,
+      "is_vertical": true
     }
   ],
   "case" : [
