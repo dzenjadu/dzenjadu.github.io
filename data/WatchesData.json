@@ -201,109 +201,121 @@
       "title": "Modern White",
       "img": "modern_white",
       "active": true,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Modern Black",
       "img": "modern_black",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Modern Blue",
       "img": "modern_blue",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Modern Olive",
       "img": "modern_olive",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Modern Pink",
       "img": "modern_pink",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Modern Yellow",
       "img": "modern_yellow",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Eclipse Blue",
       "img": "eclipse_blue",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Eclipse Green",
       "img": "eclipse_green",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Eclipse Red",
       "img": "eclipse_red",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Eclipse Silver",
       "img": "eclipse_silver",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Sport Amazon",
       "img": "sport_amazon",
       "active": false,
-      "is_vertical": false
+      "pos_small_hands": "horizontal"
+    },
+    {
+      "title": "Sport Amazon Batman",
+      "img": "sport_amazon_batman",
+      "active": false,
+      "pos_small_hands": "horizontal"
     },
     {
       "title": "Sport Caribian",
       "img": "sport_caribian",
       "active": false,
-      "is_vertical": false
+      "pos_small_hands": "horizontal"
     },
     {
       "title": "Sport Newman",
       "img": "sport_newman",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Type Black",
       "img": "type_black",
       "active": false,
-      "is_vertical": false
+      "pos_small_hands": "horizontal"
     },
     {
       "title": "Type Black / Blue",
       "img": "type_black_blue",
       "active": false,
-      "is_vertical": false
+      "pos_small_hands": "horizontal"
     },
     {
       "title": "Type While",
       "img": "type_white",
       "active": false,
-      "is_vertical": false
+      "pos_small_hands": "horizontal"
     },
     {
       "title": "Vintage Killy",
       "img": "vintage_killy",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
     },
     {
       "title": "Vintage Navi",
       "img": "vintage_navi",
       "active": false,
-      "is_vertical": true
+      "pos_small_hands": "vertical"
+    },
+    {
+      "title": "California Green",
+      "img": "california_green",
+      "active": false,
+      "pos_small_hands": null
     }
   ],
   "case" : [
