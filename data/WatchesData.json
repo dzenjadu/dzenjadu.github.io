@@ -246,6 +246,12 @@
       "pos_small_hands": "vertical"
     },
     {
+      "title": "Aero Black",
+      "img": "aero_black",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
       "title": "Eclipse Green",
       "img": "eclipse_green",
       "active": false,
@@ -326,6 +332,96 @@
     {
       "title": "California Green Poker",
       "img": "california_green_poker",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "California Black",
+      "img": "california_black",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "California Blue",
+      "img": "california_blue",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Classic Black",
+      "img": "classic_black",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Classic Blue",
+      "img": "classic_blue",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Carbon Black",
+      "img": "carbon_black",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Black",
+      "img": "matte_black",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Black White",
+      "img": "matte_black_white",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Blue",
+      "img": "matte_blue",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Grey",
+      "img": "matte_grey",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Black Grey",
+      "img": "matte_black_grey",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Orange",
+      "img": "matte_orange",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Red",
+      "img": "matte_red",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Vintage",
+      "img": "matte_vintage",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte White",
+      "img": "matte_white",
+      "active": false,
+      "pos_small_hands": null
+    },
+    {
+      "title": "Matte Yellow",
+      "img": "matte_yellow",
       "active": false,
       "pos_small_hands": null
     }
