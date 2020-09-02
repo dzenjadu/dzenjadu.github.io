@@ -234,12 +234,6 @@
       "pos_small_hands": "vertical"
     },
     {
-      "title": "Modern Yellow",
-      "img": "modern_yellow",
-      "active": false,
-      "pos_small_hands": "vertical"
-    },
-    {
       "title": "Eclipse Blue",
       "img": "eclipse_blue",
       "active": false,
