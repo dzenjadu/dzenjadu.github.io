@@ -450,8 +450,28 @@
       "active": false
     },
     {
-      "title": "Tachymeter Silver2",
-      "img": "tachymeter_silver",
+      "title": "Modern Black",
+      "img": "modern_black",
+      "active": false
+    },
+    {
+      "title": "Modern Gold",
+      "img": "modern_gold",
+      "active": false
+    },
+    {
+      "title": "Modern Pink",
+      "img": "modern_pink",
+      "active": false
+    },
+    {
+      "title": "Metal White",
+      "img": "metal_white",
+      "active": false
+    },
+    {
+      "title": "Metal Black",
+      "img": "metal_black",
       "active": false
     }
   ],
