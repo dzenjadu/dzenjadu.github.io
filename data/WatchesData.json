@@ -613,13 +613,93 @@
   ],
   "small_hands": [
     {
-      "title": "Slim Rose Gold",
-      "img": "slim_rose_gold",
+      "title": "Baton Black",
+      "img": "baton_black",
       "active": true
+    },
+    {
+      "title": "Baton Blue",
+      "img": "baton_blue",
+      "active": false
+    },
+    {
+      "title": "Baton Gold",
+      "img": "baton_gold",
+      "active": false
+    },
+    {
+      "title": "Baton Grey",
+      "img": "baton_grey",
+      "active": false
+    },
+    {
+      "title": "Baton Lightblue",
+      "img": "baton_lightblue",
+      "active": false
+    },
+    {
+      "title": "Baton Red",
+      "img": "baton_red",
+      "active": false
+    },
+    {
+      "title": "Baton Rose",
+      "img": "baton_rose",
+      "active": false
+    },
+    {
+      "title": "Baton White",
+      "img": "baton_white",
+      "active": false
+    },
+    {
+      "title": "Baton Yellow",
+      "img": "baton_yellow",
+      "active": false
     },
     {
       "title": "Leaf Black",
       "img": "leaf_black",
+      "active": false
+    },
+    {
+      "title": "Leaf Blue",
+      "img": "leaf_blue",
+      "active": false
+    },
+    {
+      "title": "Leaf Gold",
+      "img": "leaf_gold",
+      "active": false
+    },
+    {
+      "title": "Leaf Grey",
+      "img": "leaf_grey",
+      "active": false
+    },
+    {
+      "title": "Leaf Lightblue",
+      "img": "leaf_lightblue",
+      "active": false
+    },
+    {
+      "title": "Leaf Red",
+      "img": "leaf_red",
+      "active": false
+    },
+    {
+      "title": "Leaf Rose",
+      "img": "leaf_rose",
+      "active": false
+    },
+    {
+      "title": "Leaf White",
+      "img": "leaf_white",
+      "active": false
+    },
+    {
+      "title": "Leaf Yellow",
+      "img": "leaf_yellow",
       "active": false
     }
   ],
