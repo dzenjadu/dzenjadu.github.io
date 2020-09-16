@@ -424,7 +424,7 @@
     {
       "title": "Standard Black",
       "img": "standard_black",
-      "active": true
+      "active": false
     },
     {
       "title": "Standard Gold",
@@ -434,7 +434,7 @@
     {
       "title": "Standard Rose",
       "img": "standard_rose",
-      "active": false
+      "active": true
     },
     {
       "title": "Standard Silver",
@@ -483,7 +483,7 @@
     {
       "title": "Slim Black",
       "img": "slim_black",
-      "active": true
+      "active": false
     },
     {
       "title": "Slim Blue",
@@ -558,7 +558,7 @@
     {
       "title": "Leaf Rose",
       "img": "leaf_rose",
-      "active": false
+      "active": true
     },
     {
       "title": "Leaf White",
@@ -615,7 +615,7 @@
     {
       "title": "Baton Black",
       "img": "baton_black",
-      "active": true
+      "active": false
     },
     {
       "title": "Baton Blue",
@@ -625,7 +625,7 @@
     {
       "title": "Baton Gold",
       "img": "baton_gold",
-      "active": false
+      "active": true
     },
     {
       "title": "Baton Grey",
@@ -707,7 +707,7 @@
     {
       "title": "Standard Black",
       "img": "standard_black",
-      "active": true
+      "active": false
     },
     {
       "title": "Standard Blue",
@@ -717,7 +717,7 @@
     {
       "title": "Standard Gold",
       "img": "standard_gold",
-      "active": false
+      "active": true
     },
     {
       "title": "Standard Grey",
