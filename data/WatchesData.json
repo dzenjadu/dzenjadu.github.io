@@ -705,13 +705,48 @@
   ],
   "second_hands": [
     {
-      "title": "Standard Rose Gold",
-      "img": "standard_rose_gold",
+      "title": "Standard Black",
+      "img": "standard_black",
       "active": true
     },
     {
-      "title": "Standard Rose Gold2",
-      "img": "standard_rose_gold",
+      "title": "Standard Blue",
+      "img": "standard_blue",
+      "active": false
+    },
+    {
+      "title": "Standard Gold",
+      "img": "standard_gold",
+      "active": false
+    },
+    {
+      "title": "Standard Grey",
+      "img": "standard_grey",
+      "active": false
+    },
+    {
+      "title": "Standard Lightblue",
+      "img": "standard_lightblue",
+      "active": false
+    },
+    {
+      "title": "Standard Red",
+      "img": "standard_red",
+      "active": false
+    },
+    {
+      "title": "Standard Rose",
+      "img": "standard_rose",
+      "active": false
+    },
+    {
+      "title": "Standard White",
+      "img": "standard_white",
+      "active": false
+    },
+    {
+      "title": "Standard Yellow",
+      "img": "standard_yellow",
       "active": false
     }
   ]
