@@ -409,7 +409,6 @@ ul {
   .feature-two .feature__bg {
     background-position: center; } }
 
-/*--------4---------*/
 @media screen and (max-width: 770px) {
   .feature-four .feature__bg {
     background-position: center; } }
