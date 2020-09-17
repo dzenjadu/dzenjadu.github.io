@@ -1,0 +1,103 @@
+﻿body {
+	background-color: #26221f;
+}
+.game {
+	text-align: center;
+	margin: 0 auto;
+	font-family: sans-serif;
+	color: #807f7e;
+}
+
+.game-items {
+	margin-bottom: 10px;
+	width: 208px;
+	margin: 0 auto;
+	color: #26221f;
+}
+
+.game-item {
+	background-color: #fff;
+	margin: 1px;
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	line-height: 50px;
+	text-align: center;
+}
+
+.o {
+	background-color: #f9ffcc;
+}
+.x {
+	background-color: #ccf1ff;
+}
+
+.game-item:hover/*, .game-item.active*/ {
+	background-color: #ddd;
+	/*transition: all linear .15s;*/
+}
+
+.message {
+	margin-bottom: 10px;
+	margin-top: 5px;
+	font-size: 14px;
+}
+
+.message-won {
+	color: #57b261;
+}
+
+.game-reset {
+	width: 156px;
+	border: 0;
+	padding: 10px 15px;
+	cursor: pointer;
+	background-color: #42aebc;
+	color: #fff;
+}
+
+.game-reset:hover {
+	background-color: #226b75;
+}
+
+.game-title {
+	font-size: 20px;
+	font-weight: normal;
+	color: #fff;
+}
+
+.game-buttons {
+	margin-bottom: 15px;
+	font-size: 12px;
+}
+
+.game-buttons button {
+	border: 2px solid #26221f;
+	background-color: #42aebc;
+	padding: 3px 6px;
+	color: #fff;
+}
+
+.game-buttons button:hover {
+	background-color: #226b75;
+	cursor: pointer;
+}
+
+.game-buttons .button-active {
+	background-color: #226b75;
+}
+
+.game-buttons input {
+	width: 20px;
+	border: 2px solid #26221f;
+	padding: 3px 6px;
+	margin-left: 40px;
+	margin-right: 5px;
+}
+
+.custom-field button {
+	margin-left: 5px;
+}
