@@ -1,5 +1,4 @@
 $(document).ready(function(){
-
     $("#navToggle").click(function() {
         $(this).toggleClass("active");
         $(".overlay").toggleClass("open");
@@ -8,7 +7,6 @@ $(document).ready(function(){
         $(this).removeClass('open');
         $('.navBurger').removeClass('active');
     });
-
 
     $(".header__menu").on("click","a", function (event) {
         event.preventDefault();
@@ -22,7 +20,6 @@ $(document).ready(function(){
             top = $(id).offset().top;
         $('body,html').animate({scrollTop: top}, 1000);
     });
-
 
     var mainHeader = $('.cd-auto-hide-header'),
         secondaryNavigation = $('.cd-secondary-nav'),
@@ -105,7 +102,6 @@ $(document).ready(function(){
         }
     }
 
-
     $('.slider-body').slick({
         centerMode: true,
         centerPadding: '0px',
@@ -131,5 +127,4 @@ $(document).ready(function(){
             }
         ]
     });
-
 });
