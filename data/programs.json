@@ -1,0 +1,75 @@
+{
+	"fit": {
+		"clrs": 1300,
+		"desc": "Рацион для похудения (1300 калорий) – рацион правильного питания для похудения без диет и интенсивных изнурительных тренировок. Сбалансированные блюда, с учетом рекомендаций фитнес тренеров и диетологов. Соблюдение правильного распределения приемов пищи и соотношений калорий, белков, жиров и углеводов (КБЖУ) в течение дня.",
+		"days": {
+			"day_1": {
+				"brf": "oatmeal_fruit_nuts",
+				"s_brf": "olivier",
+				"lch": "beef_cutlet",
+				"snk": "fantasy",
+				"dnr": "beef_cutlet"
+			},
+			"day_2": {
+				"brf": "pumpkin_porridge",
+				"s_brf": "strawberry_jelly",
+				"lch": "сhicken_casserole",
+				"snk": "tapas_salmon",
+				"dnr": "baked_cod"
+			},
+			"day_3": {
+				"brf": "curd",
+				"s_brf": "pear_puree",
+				"lch": "turkey_meatball",
+				"snk": "egg_salad",
+				"dnr": "veal_cheeks"
+			},
+			"day_4": {
+				"brf": "porridge_water",
+				"s_brf": "tangerines",
+				"lch": "boiled_squid",
+				"snk": "red_cabbage",
+				"dnr": "turkey_cutlet"
+			}
+		}
+	},
+	"balance": {
+		"clrs": 1800,
+		"desc": "Сбалансированный рацион (1800 калорий) – недельная программа питания, нацеленная на сохранение веса и полностью сбалансированного питания с соблюдением рекомендуемого количество дневного потребления КБЖУ. Подходит каждому человеку, который хочет питаться правильно, не переедать и быть сытым всегда.",
+		"days": {
+			"day_1": {
+				"brf": "oatmeal_fruit_nuts",
+				"s_brf": "olivier",
+				"lch": "beef_cutlet",
+				"snk": "fantasy",
+				"dnr": "beef_cutlet"
+			},
+			"day_2": {
+				"brf": "pumpkin_porridge",
+				"s_brf": "strawberry_jelly",
+				"lch": "сhicken_casserole",
+				"snk": "tapas_salmon",
+				"dnr": "baked_cod"
+			},
+			"day_3": {
+				"brf": "curd",
+				"s_brf": "pear_puree",
+				"lch": "turkey_meatball",
+				"snk": "egg_salad",
+				"dnr": "veal_cheeks"
+			}
+		}
+	},
+	"power": {
+
+	},
+	"daily": {
+
+	},
+	"vegan": {
+
+	},
+	"sea": {
+
+	}
+}
