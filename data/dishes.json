@@ -8,7 +8,7 @@
     "proteins": 8,
     "fats": 5,
     "carbo": 47,
-    "priсe": 150,
+    "price": 150,
     "category": "Завтрак"
   },
   "olivier": {
@@ -20,7 +20,7 @@
     "proteins": 15,
     "fats": 14,
     "carbo": 17,
-    "priсe": 165,
+    "price": 165,
     "category": "Салаты и закуски"
   },
   "beef_cutlet": {
@@ -32,7 +32,7 @@
     "proteins": 28,
     "fats": 15,
     "carbo": 41,
-    "priсe": 155,
+    "price": 155,
     "category": "Мясо"
   },
   "fantasy": {
@@ -44,7 +44,7 @@
     "proteins": 2,
     "fats": 7,
     "carbo": 13,
-    "priсe": 170,
+    "price": 170,
     "category": "Салаты и закуски"
   },
   "su_vid": {
@@ -56,7 +56,7 @@
     "proteins": 29,
     "fats": 9,
     "carbo": 7,
-    "priсe": 310,
+    "price": 310,
     "category": "Мясо"
   },
   "pumpkin_porridge": {
@@ -68,7 +68,7 @@
     "proteins": 9,
     "fats": 10,
     "carbo": 53,
-    "priсe": 175,
+    "price": 175,
     "category": "Завтрак"
   },
   "strawberry_jelly": {
@@ -80,7 +80,7 @@
     "proteins": 5,
     "fats": 1,
     "carbo": 25,
-    "priсe": 150,
+    "price": 150,
     "category": "Гарниры"
   },
   "сhicken_casserole": {
@@ -92,7 +92,7 @@
     "proteins": 22,
     "fats": 23,
     "carbo": 14,
-    "priсe": 225,
+    "price": 225,
     "category": "Мясо"
   },
   "tapas_salmon": {
@@ -104,7 +104,7 @@
     "proteins": 16,
     "fats": 13,
     "carbo": 6,
-    "priсe": 240,
+    "price": 240,
     "category": "Гарниры"
   },
   "baked_cod": {
@@ -116,7 +116,7 @@
     "proteins": 28,
     "fats": 12,
     "carbo": 11,
-    "priсe": 269,
+    "price": 269,
     "category": "Рыба"
   },
   "curd": {
@@ -128,7 +128,7 @@
     "proteins": 25,
     "fats": 14,
     "carbo": 17,
-    "priсe": 140,
+    "price": 140,
     "category": "Завтрак"
   },
   "pear_puree": {
@@ -140,7 +140,7 @@
     "proteins": 4,
     "fats": 5,
     "carbo": 21,
-    "priсe": 190,
+    "price": 190,
     "category": "Гарниры"
   },
   "turkey_meatball": {
@@ -152,7 +152,7 @@
     "proteins": 24,
     "fats": 13,
     "carbo": 36,
-    "priсe": 247,
+    "price": 247,
     "category": "Мясо"
   },
   "egg_salad": {
@@ -164,7 +164,7 @@
     "proteins": 8,
     "fats": 9,
     "carbo": 3,
-    "priсe": 145,
+    "price": 145,
     "category": "Салаты и закуски"
   },
   "veal_cheeks": {
@@ -176,7 +176,7 @@
     "proteins": 23,
     "fats": 29,
     "carbo": 28,
-    "priсe": 350,
+    "price": 350,
     "category": "Мясо"
   },
   "porridge_water": {
@@ -188,7 +188,7 @@
     "proteins": 2,
     "fats": 1,
     "carbo": 13,
-    "priсe": 125,
+    "price": 125,
     "category": "Завтрак"
   },
   "tangerines": {
@@ -200,7 +200,7 @@
     "proteins": 2,
     "fats": 1,
     "carbo": 31,
-    "priсe": 150,
+    "price": 150,
     "category": "Гарниры"
   },
   "boiled_squid": {
@@ -212,7 +212,7 @@
     "proteins": 36,
     "fats": 16,
     "carbo": 34,
-    "priсe": 240,
+    "price": 240,
     "category": "Рыба"
   },
   "red_cabbage": {
@@ -224,7 +224,7 @@
     "proteins": 3,
     "fats": 5,
     "carbo": 17,
-    "priсe": 150,
+    "price": 150,
     "category": "Салаты и закуски"
   },
   "turkey_cutlet": {
@@ -236,7 +236,7 @@
     "proteins": 31,
     "fats": 13,
     "carbo": 33,
-    "priсe": 350,
+    "price": 350,
     "category": "Мясо"
   }
 }
