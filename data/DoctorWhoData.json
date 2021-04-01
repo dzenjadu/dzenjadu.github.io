@@ -4,8 +4,8 @@
       "id": 10,
       "name": "10й Доктор",
       "img": {
-        "item": "doctors/11_doctor_item.jpg",
-        "page": "doctors/11_doctor_page.jpg"
+        "item": "doctors/10_doctor_item.jpg",
+        "page": "doctors/10_doctor_page.jpg"
       },
       "details": {
         "gender": "Мужской",
